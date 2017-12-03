@@ -1,0 +1,2 @@
+Book Title A| Author A| http://example.com/
+Book Title B| Author A| http://example.org/
